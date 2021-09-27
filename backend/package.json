@@ -1,0 +1,15 @@
+{
+    "name": "express-webpack-boilerplate-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "chaebum-kim",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
